@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+		<title>site exemple</title>
+	</head>
+	<body>
+		<header>
+			<div id="accueil">
+			<svg width="2.5rem" height="2.5rem">
+ 				<image xlink:href="https://th.bing.com/th/id/R.43080de725c149f58ec4d69a054071cd?rik=knYLXDI6gzp4hA&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fKTn%2faXa%2fKTnaXa5bc.png&ehk=ZW%2b9zgHOs8nq5dnD8eo2PgSaeCKJ56TXxds7FdyO5JE%3d&risl=&pid=ImgRaw&r=0" width="2.5rem" height="2.5rem" />
+			</svg>
+				<h1>Avion Airlane</h1>
+			</div>
+				<nav>
+					<a href="#"><i class="fa fa-home" aria-hidden="true"></i></i> Accueil</a>
+					<a href="#article"><i class="fa fa-plane" aria-hidden="true"></i> Nos vols</a>
+					<a href="#contact"><i class="fa fa-phone" aria-hidden="true"></i> Nous Contacter</a>
+				</nav>
+		</header>
+			<main>
+			<section id="article">
+				<h2>- Nos vols -</h2>
+				<article>
+					<h3>Le confort:</h3>
+					<img src="https://img.freepik.com/photos-gratuite/passagers-joyeux-souriants-attendant-hotesse-air-servant-dejeuner-bord-voyage-service-transport-concept-avion_362389-4555.jpg?size=626&ext=jpg">
+					<p>Sed maximum est in amicitia parem esse inferiori. Saepe enim excellentiae quaedam sunt, qualis erat Scipionis in nostro, ut ita dicam, grege. Numquam se ille Philo, numquam Rupilio, numquam Mummio anteposuit, quod is anteibat aetate, tamquam superiorem colebat suosque omnes per se posse esse ampliores volebat.</p>
+					<p>Duplexque isdem diebus acciderat malum, quod et Theophilum insontem atrox interceperat casus, et Serenianus dignus exsecratione cunctorum, innoxius, modo non reclamante publico vigore, discessit.</p>
+					<p>Et quoniam inedia gravi adflictabantur, locum petivere Paleas nomine, vergentem in mare, valido muro firmatum,  adiri letali, nec cuniculis quicquam geri posset, nec procederet ullum obsidionale commentum, maesti excedunt postrema vi subigente maiora viribus adgressuri.</p>
+					<a href="#">En savoir plus <i class="fas fa-plus-circle"></i></a>
+				</article>
+				<article>
+					<h3>Durée:</h3>
+					<img id="wakeup" src="https://www.horlogerie-pisson.com/246-thickbox_default/reveil-bayard.jpg">
+					<p>Sed maximum est in amicitia parem esse inferiori. Saepe enim excellentiae quaedam sunt, qualis erat Scipionis in nostro, ut ita dicam, grege. Numquam se ille Philo, numquam Rupilio, numquam Mummio anteposuit,  quod is anteibat aetate, tamquam superiorem colebat suosque omnes per se posse esse ampliores volebat.</p>
+					<p>Duplexque isdem diebus acciderat malum, quod et Theophilum insontem atrox interceperat casus, et Serenianus dignus exsecratione cunctorum, innoxius, modo non reclamante publico vigore, discessit.</p>
+					<p>Et quoniam inedia gravi adflictabantur, locum petivere Paleas nomine, vergentem in mare, valido muro firmatum, ubi conduntur nunc usque commeatus distribui militibus omne latus Isauriae defendentibus adsueti. adiri letali, nec cuniculis quicquam geri posset, nec procederet ullum obsidionale commentum, maesti excedunt postrema vi subigente maiora viribus adgressuri.</p>
+					<a href="#">En savoir plus <i class="fas fa-plus-circle"></i></a>
+				</article>
+				<article>
+					<h3>La sécurité avant tout:</h3>
+					<img src="https://www.leblogdesarah.com/wp-content/uploads/2015/09/gloire-avion-1.jpg">
+					<p>Sed maximum est in amicitia parem esse inferiori. Saepe enim excellentiae quaedam sunt, qualis erat Scipionis in nostro, ut ita dicam, grege. Numquam se ille Philo, numquam Rupilio, numquam Mummio anteposuit, numquam nequaquam parem, quod is anteibat aetate, tamquam superiorem colebat suosque omnes per se posse esse ampliores volebat.</p>
+					<p>Duplexque isdem diebus acciderat malum, quod et Theophilum insontem atrox interceperat casus, et Serenianus dignus exsecratione cunctorum, innoxius, modo non reclamante publico vigore, discessit.</p>
+					<p>Et quoniam inedia gravi adflictabantur, locum petivere Paleas nomine, vergentem in mare, valido muro firmatum, hoc munimentum per triduum et trinoctium et cum neque adclivitas ipsa sine discrimine adiri letali, nec cuniculis quicquam geri posset, nec procederet ullum obsidionale commentum, maesti excedunt postrema vi subigente maiora viribus adgressuri.</p>
+					<a href="#">En savoir plus <i class="fas fa-plus-circle"></i></a>
+				</article>
+			</section>
+				<!-- contact -->
+			<section id="contact">
+				<h2>- Contactez-nous -</h2>
+				<p>Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.</p>
+				<form>
+					<div class="info">
+						<label for="prenom" id="prn"><div><i class="fa fa-user" aria-hidden="true"></i></div>
+ 							<input type="text" placeholder="Votre prénom" name="prenom" id="prenom"></label>
+						<label for="mail" id="mal"><div><i class="fa fa-envelope" aria-hidden="true"></i></div>
+							<input type="text" placeholder="Votre mail"name="mail" id="mail"></label>
+						<label for="message" id="msg"><div><i class="fa fa-comment" aria-hidden="true"></i></div>
+							<input type="text" placeholder="Votre message" name="message" id="message"></label>
+					</div>
+					<input type="submit" id="envoie" value="Envoyer">
+					<input type="reset" id="delete" value="Effacer">
+				</form>
+			</section>
+		</main>
+	</body>
+</html>
+
